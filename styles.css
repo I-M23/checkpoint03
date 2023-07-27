@@ -1,0 +1,83 @@
+body {
+    background-color: powderblue;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  }
+  h1 {
+    color: blue;
+  font-size: 300%;
+  }
+  p {
+    color: rgb(7, 20, 204);
+  font-size: 90%;
+  }
+  ol {
+    color: rgb(165, 7, 204);
+  font-size: 90%;
+}
+
+/*--------------------------------------------------------------
+# General
+--------------------------------------------------------------*/
+a {
+  color: #dd14cc;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #dbed37;
+  text-decoration: none;
+}
+
+.Hm
+{
+  background-position: center;
+  width:1000px;
+  height:500px;
+}
+
+
+#About
+{
+  background-color: rgb(153, 201, 216);
+  padding: 20px;     
+}
+.Barre
+li {
+  display: inline;
+  border-bottom: #dd14cc;
+  padding: 50px;
+
+}
+.Barre1
+{
+  border: 2px solid rgb(110, 172, 145);
+  background-color:rgb(146, 253, 217)
+}
+#Work
+{
+  background-color: rgb(125, 183, 201);
+  padding: 50px;     
+}
+#Resume
+{
+  background-color: rgb(103, 161, 179);
+  padding: 20px;     
+}
+#Contact
+{
+  background-color: rgb(85, 140, 156);
+  padding: 20px;
+}
+.container
+{
+  width:80%;
+  min-width:400px;
+  max-width:800px;
+  margin:0 auto;
+}
+.wb
+{
+  width:500px;
+  height:400px;
+}
+  
